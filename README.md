@@ -1,9 +1,11 @@
-## Hi, I'm Michael! 👋
+## Howdy!
 
-I'm a creative professional with 25+ years facilitating product development.
+I'm a creative professional with 25+ years of experience driving UX design to facilitate product success. As a UX Designer; I specialize in design strategy, data visualization, and Agile UX.
 
-Cheers,
-M
+I'm currently retraining and seeking a junior position in Data Science.
+
+## Certifications
+[Google Advanced Data Analytics](https://coursera.org/share/e568a5ca479c36cb2e5e7db2afdd00b6)
 
 <!--
 **uxfab/uxfab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
