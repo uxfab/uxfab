@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Michael! 👋
+
+I'm a creative professional with 25+ years facilitating product development.
+
+Cheers,
+M
 
 <!--
 **uxfab/uxfab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
