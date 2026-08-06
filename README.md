@@ -2,7 +2,7 @@
 
 I'm a creative professional with 25+ years of experience driving UX design to facilitate product success. As a UX Designer; I specialize in design strategy, data visualization, and Agile UX.
 
-I'm currently retraining and seeking a junior position in Data Science.
+I'm currently building my skills in Data Science methods and tools. I'm seeking a junior- to mid-level position in Data Science.
 
 ## Certifications
 [Google Advanced Data Analytics](https://coursera.org/share/e568a5ca479c36cb2e5e7db2afdd00b6)
