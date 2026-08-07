@@ -1,4 +1,4 @@
-### Howdy!
+### Hey, I'm Michael!
 
 I'm a creative professional with 25+ years of experience driving UX design to facilitate product success. As a UX Designer; I specialize in design strategy, data visualization, and Agile UX.
 
