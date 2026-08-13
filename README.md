@@ -15,6 +15,10 @@ Track record of innovative design solutions. Highlights include:
 ### Certifications
 * [Google Advanced Data Analytics](https://coursera.org/share/e568a5ca479c36cb2e5e7db2afdd00b6)
 
+### Patents
+* [Method and apparatus for layered overview in visualization of large enterprise it environment (8,941,658)](https://www.researchgate.net/publication/302820211_Method_and_apparatus_for_layered_overview_in_visualization_of_large_enterprise_it_environment)
+
+
 ### Courses
 * [Kaggle: Python](https://www.kaggle.com/learn/certification/usersuccess/python)
 * [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/certification/usersuccess/intro-to-machine-learning)
