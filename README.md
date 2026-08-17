@@ -8,7 +8,8 @@ Track record of innovative design solutions. Highlights include:
 * CA/Arcserve: Arcserve Unified Data Protection UI design architecture
 
 ### Education
-* MA, Experimental Psychology; New Mexico State University
+* MA, Experimental Psychology; New Mexico State University Las Cruces
+* BA, Psychology; University of Oklahoma Norman
 
 ### Certifications
 * [Google Advanced Data Analytics](https://coursera.org/share/e568a5ca479c36cb2e5e7db2afdd00b6)
