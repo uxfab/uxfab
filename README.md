@@ -1,8 +1,6 @@
 ### Hey, I'm Michael!
 
-I'm a creative professional with 25+ years of experience driving UX design to facilitate product success. As a UX Designer; I specialize in design strategy, data visualization, and Agile UX.
-
-Currently building my skills in Data Science methods and tools, I'm seeking a junior- to mid-level position in Data Science.
+Collaborating with stakeholders and product teams to drive product success since 2000. As a UX Designer; I specialize in design strategy, data visualization, and Agile UX. Currently building skills in Data Science methods and tools, I’m seeking a junior- to mid-level position in Data Science or Data Visualization.
 
 ### Experience
 Track record of innovative design solutions. Highlights include:
